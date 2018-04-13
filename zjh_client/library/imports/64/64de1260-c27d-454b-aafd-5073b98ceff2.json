@@ -1,0 +1,341 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "GamePlazaRes.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "GamePlaza-bt_quickestart_d": {
+      "__uuid__": "348f59c3-afeb-499c-965a-cb9c16c69dd8"
+    },
+    "GamePlaza-bt_quickestart_s": {
+      "__uuid__": "fb19256a-43df-432a-9a97-e7a7faaa2ecd"
+    },
+    "GamePlaza-btn_add_n": {
+      "__uuid__": "9fc5cc8d-c0a2-409a-8adf-6f0f9aedf3ef"
+    },
+    "GamePlaza-btn_baccarat_n": {
+      "__uuid__": "de1abec0-d91e-4adf-9a4b-ecbc53b5ae9f"
+    },
+    "GamePlaza-btn_baccarat_s": {
+      "__uuid__": "868f1bb8-63cb-41b4-94c0-3902712d649d"
+    },
+    "GamePlaza-btn_back_n": {
+      "__uuid__": "fe6d0c7a-1406-481f-9db5-74cc917eb668"
+    },
+    "GamePlaza-btn_download_n": {
+      "__uuid__": "c086d5d1-ce4b-46e9-8f4f-79b86970c71e"
+    },
+    "GamePlaza-btn_download_s": {
+      "__uuid__": "b9941989-7866-445b-8a85-04fa10eb5a85"
+    },
+    "GamePlaza-btn_dzshowhand_n": {
+      "__uuid__": "85e26ac8-d73f-4919-b55f-535d24cf6030"
+    },
+    "GamePlaza-btn_dzshowhand_s": {
+      "__uuid__": "7b508414-aabe-45a6-9d67-9258e1b675af"
+    },
+    "GamePlaza-btn_fish_n": {
+      "__uuid__": "4583b803-84c1-4535-989f-687227dc0062"
+    },
+    "GamePlaza-btn_fish_s": {
+      "__uuid__": "93726050-e3bc-4e61-951a-6d43af8e79b4"
+    },
+    "GamePlaza-btn_fly_n": {
+      "__uuid__": "585e9203-e1ab-421b-acd1-c014cc1581ac"
+    },
+    "GamePlaza-btn_fly_s": {
+      "__uuid__": "bf3fbad4-0a44-47fc-b2f3-69ebcb3a0857"
+    },
+    "GamePlaza-btn_land_n": {
+      "__uuid__": "ca702694-dd3d-46a2-9e10-3dedf41a364d"
+    },
+    "GamePlaza-btn_land_s": {
+      "__uuid__": "8aa78231-44ee-4eca-9997-d76e3994f8c6"
+    },
+    "GamePlaza-btn_logon_login_n": {
+      "__uuid__": "1bc5e8b8-4ba1-43fa-8aca-a20088b314eb"
+    },
+    "GamePlaza-btn_logon_login_s": {
+      "__uuid__": "e5b975db-2eae-435d-94b7-6e7d0e774b5e"
+    },
+    "GamePlaza-btn_logon_register_n": {
+      "__uuid__": "2a3f07ab-2610-4a3c-9ff1-8a3f19c0e0d6"
+    },
+    "GamePlaza-btn_logon_takepass_n": {
+      "__uuid__": "61efc21f-20ac-4483-aeca-c69c0b67220a"
+    },
+    "GamePlaza-btn_navigation_0_n": {
+      "__uuid__": "cb064e13-c41b-4972-b405-57b7f4410fcd"
+    },
+    "GamePlaza-btn_navigation_1_n": {
+      "__uuid__": "b2f7507f-7bf5-43a1-aae7-411459c0c932"
+    },
+    "GamePlaza-btn_navigation_2_n": {
+      "__uuid__": "95292e05-1d05-44b8-8f04-ed875c6b5361"
+    },
+    "GamePlaza-btn_navigation_3_n": {
+      "__uuid__": "7dd2f04b-997c-4f98-8390-1ebd7f3ee776"
+    },
+    "GamePlaza-btn_navigation_4_n": {
+      "__uuid__": "cdc4b74c-21cd-4637-aea2-ef24579954a6"
+    },
+    "GamePlaza-btn_navigation_5_n": {
+      "__uuid__": "0662975f-2f8d-46ff-8ad2-9580aaf8dfb6"
+    },
+    "GamePlaza-btn_navigation_6_n": {
+      "__uuid__": "1a106909-73e4-4e4b-89c4-c5505fe91e3e"
+    },
+    "GamePlaza-btn_ox_n": {
+      "__uuid__": "58c3b47b-f40f-4458-81d3-ae961c1f2f2f"
+    },
+    "GamePlaza-btn_ox_s": {
+      "__uuid__": "6b41ff4b-089c-4a85-b9bb-54b78141bde4"
+    },
+    "GamePlaza-btn_regon_register": {
+      "__uuid__": "9f885ccb-56f0-4b0e-9667-bc6dcb5417f3"
+    },
+    "GamePlaza-btn_regon_register_s": {
+      "__uuid__": "f3abda7e-2ce7-43e9-b824-384ff16b8283"
+    },
+    "GamePlaza-btn_room_1_n": {
+      "__uuid__": "00258e45-7ffd-44f9-baba-c9b629c855df"
+    },
+    "GamePlaza-btn_room_2_n": {
+      "__uuid__": "57c2a857-704a-4a81-b4e7-1a8a0ddce0b1"
+    },
+    "GamePlaza-btn_savepwd_n": {
+      "__uuid__": "c7641143-bf25-43db-a623-125516e029b1"
+    },
+    "GamePlaza-btn_savepwd_s": {
+      "__uuid__": "6d3811bb-2d0c-4c0f-bd06-b72fa886443c"
+    },
+    "GamePlaza-btn_setup_n": {
+      "__uuid__": "d2aa2cff-16e6-487d-b9fe-772400cceb19"
+    },
+    "GamePlaza-btn_sparrower_n": {
+      "__uuid__": "13906d48-d735-445c-a633-5879f1f1ec19"
+    },
+    "GamePlaza-btn_sparrower_s": {
+      "__uuid__": "db1544e4-cb27-47a2-bc7a-c232537b0b5c"
+    },
+    "GamePlaza-btn_website_d": {
+      "__uuid__": "0826af48-ec7d-404b-bae2-548d70af6774"
+    },
+    "GamePlaza-btn_website_n": {
+      "__uuid__": "31760aed-a3c6-4301-a7a4-1796d053e07f"
+    },
+    "GamePlaza-btn_website_s": {
+      "__uuid__": "bc927dce-a25f-4543-8f41-8c203f4961ba"
+    },
+    "GamePlaza-btn_zajinhua_n": {
+      "__uuid__": "2c64ffda-76b2-406c-8718-7e5c13ed936f"
+    },
+    "GamePlaza-btn_zajinhua_s": {
+      "__uuid__": "d8335947-dc51-47f8-abc4-c1e310891147"
+    },
+    "GamePlaza-dlg_active_text": {
+      "__uuid__": "4eddadc9-0bba-4b73-8666-cb43b85dbb55"
+    },
+    "GamePlaza-dlg_btn_alipay_n": {
+      "__uuid__": "cdc5d015-8770-4738-8d0b-3d8fe871ad07"
+    },
+    "GamePlaza-dlg_btn_alipay_s": {
+      "__uuid__": "bdf3c6e3-c8f1-423c-a45e-a751a399b894"
+    },
+    "GamePlaza-dlg_btn_bank_n": {
+      "__uuid__": "c6d29795-714e-4581-a482-bbfe8c26109e"
+    },
+    "GamePlaza-dlg_btn_bank_s": {
+      "__uuid__": "e3e2a3f8-6994-4259-9d31-8074a5ad1b62"
+    },
+    "GamePlaza-dlg_btn_kfd_n": {
+      "__uuid__": "6976d8cf-cf6f-4a80-b575-a951c1d46c84"
+    },
+    "GamePlaza-dlg_btn_kfd_s": {
+      "__uuid__": "a26ce281-ee62-402d-a056-2b03a347abd1"
+    },
+    "GamePlaza-dlg_btn_ok_n": {
+      "__uuid__": "1ef70d2a-f414-4ad6-b388-beed44f4b94e"
+    },
+    "GamePlaza-dlg_btn_pay_00_n": {
+      "__uuid__": "c0772b9b-fab5-4991-9161-71b9b0a9306e"
+    },
+    "GamePlaza-dlg_btn_pay_1000_n": {
+      "__uuid__": "7586755e-a32a-4e2a-9129-b540805514fb"
+    },
+    "GamePlaza-dlg_btn_pay_100_n": {
+      "__uuid__": "af2ebb44-25f6-474c-a8fb-ec7479f4dd15"
+    },
+    "GamePlaza-dlg_btn_pay_2000_n": {
+      "__uuid__": "c54559ef-923f-417f-9ffb-70801684c219"
+    },
+    "GamePlaza-dlg_btn_pay_20_n": {
+      "__uuid__": "2fde049f-3505-43f0-92dd-2d699c7f2991"
+    },
+    "GamePlaza-dlg_btn_pay_500_n": {
+      "__uuid__": "7397436c-f8ee-403c-949a-d8c1b3d950f5"
+    },
+    "GamePlaza-dlg_btn_pay_50_n": {
+      "__uuid__": "82da5371-ac4e-4992-bb7b-f5c60764be76"
+    },
+    "GamePlaza-dlg_btn_reset_n": {
+      "__uuid__": "0261caff-4b57-46e0-bbc3-8e81cd7891f7"
+    },
+    "GamePlaza-dlg_btn_submit_n": {
+      "__uuid__": "b285fa0e-7eb2-41ee-a7a8-bc6c736ca996"
+    },
+    "GamePlaza-dlg_btn_submit_s": {
+      "__uuid__": "aa1b28e7-4fc6-421e-881e-4dd7a7fece0c"
+    },
+    "GamePlaza-dlg_btn_web_n": {
+      "__uuid__": "f7f06c8b-db4c-40dd-942c-43be7b22bca3"
+    },
+    "GamePlaza-dlg_btn_web_s": {
+      "__uuid__": "63a0cc83-a7d6-4974-96a7-9f8668e8d5fb"
+    },
+    "GamePlaza-dlg_btn_wechat_n": {
+      "__uuid__": "554c0a18-07db-4197-8348-ab84f8c2e895"
+    },
+    "GamePlaza-dlg_btn_wechat_s": {
+      "__uuid__": "600340be-0f12-49db-a5d1-066aaa473cf0"
+    },
+    "GamePlaza-dlg_chong_text": {
+      "__uuid__": "59b1521c-29dd-4f88-9d3f-ef5bc7d97cf9"
+    },
+    "GamePlaza-dlg_comingsoon_text": {
+      "__uuid__": "dd027050-66fa-4762-b631-a933942e6958"
+    },
+    "GamePlaza-dlg_duihuan_text": {
+      "__uuid__": "fa496dd2-002d-4c93-a5c1-84cec0a471d1"
+    },
+    "GamePlaza-dlg_player_text": {
+      "__uuid__": "ad5f53a0-76b6-4f55-aa35-7b1a7c191312"
+    },
+    "GamePlaza-dlg_roll_bar": {
+      "__uuid__": "97ac6e3a-14d5-4fca-849e-0e89599b2efe"
+    },
+    "GamePlaza-dlg_roll_button_n": {
+      "__uuid__": "9574dafe-b011-43f0-9129-a253e00c5e25"
+    },
+    "GamePlaza-dlg_roll_progress": {
+      "__uuid__": "1bc99625-60ee-4788-bb83-a5d3e470ccc0"
+    },
+    "GamePlaza-dlg_service_text": {
+      "__uuid__": "5cd46f9d-b2c4-4a7f-96d0-822c4295686f"
+    },
+    "GamePlaza-download_bar_01": {
+      "__uuid__": "3e7dd731-93ff-4f9a-be53-10e024dd4146"
+    },
+    "GamePlaza-download_bar_02": {
+      "__uuid__": "c1f4d900-2616-4311-942f-2c8d92e8b861"
+    },
+    "GamePlaza-loading_01": {
+      "__uuid__": "b183c0f6-69fd-42e9-96bb-16c3ce0c3256"
+    },
+    "GamePlaza-loading_02": {
+      "__uuid__": "4978efb6-540f-4734-b816-aa7e464c7936"
+    },
+    "GamePlaza-loading_03": {
+      "__uuid__": "73b33583-40ed-455e-af0b-c9b4801f03f9"
+    },
+    "GamePlaza-loading_04": {
+      "__uuid__": "4d85912a-3ec2-4667-9363-39bb0bc917d5"
+    },
+    "GamePlaza-loading_05": {
+      "__uuid__": "88d80108-c372-415b-aee4-873c073eed9b"
+    },
+    "GamePlaza-loading_06": {
+      "__uuid__": "f234673d-9fab-48a6-92c4-079223bc70c3"
+    },
+    "GamePlaza-loading_07": {
+      "__uuid__": "bcbb2b2b-3351-43a6-ae74-e93eade4bebb"
+    },
+    "GamePlaza-loading_08": {
+      "__uuid__": "80c32f00-ed29-4720-8087-0147ecb91456"
+    },
+    "GamePlaza-loading_09": {
+      "__uuid__": "08a3a091-9b40-4cb1-92a4-525d5dbc0d6f"
+    },
+    "GamePlaza-loading_10": {
+      "__uuid__": "4df43102-aacc-40e8-8213-795a55bb748c"
+    },
+    "GamePlaza-match_text_end": {
+      "__uuid__": "e950c07b-cebc-4b26-a4fb-405446d630ec"
+    },
+    "GamePlaza-match_text_enter": {
+      "__uuid__": "e8e66832-8ea6-4a9a-a348-961abe37cc57"
+    },
+    "GamePlaza-match_text_wait": {
+      "__uuid__": "514774c1-17f6-4259-bfbb-c54171586774"
+    },
+    "GamePlaza-pic_message_bg": {
+      "__uuid__": "c4729ee5-89c8-405e-8c15-c82b84899fc6"
+    },
+    "GamePlaza-pic_message_spk": {
+      "__uuid__": "003f7a4d-e684-4278-a76d-c22422feae36"
+    },
+    "GamePlaza-plaza_bottom_bar": {
+      "__uuid__": "ce6e26bf-a515-4814-afbe-178b9c889eb0"
+    },
+    "GamePlaza-plaza_logo": {
+      "__uuid__": "15e6b259-57e0-4c89-a070-efa0b38a453b"
+    },
+    "GamePlaza-plaza_match_bg2": {
+      "__uuid__": "eb5646b7-9974-4ba5-99a5-29ecb47628b0"
+    },
+    "GamePlaza-plaza_top logo": {
+      "__uuid__": "02a421f9-7b7a-444e-b32a-79fd05baff63"
+    },
+    "GamePlaza-room_top_bar": {
+      "__uuid__": "f14e93f4-7502-4b33-a91e-b07db975c088"
+    },
+    "GamePlaza-setup_btn_change": {
+      "__uuid__": "51931595-ec5f-4eda-a218-37cd46583724"
+    },
+    "GamePlaza-setup_btn_close_n": {
+      "__uuid__": "4ffb4a62-909e-4347-91bd-8404c921f790"
+    },
+    "GamePlaza-setup_btn_close_s": {
+      "__uuid__": "771b5260-f35e-4702-bc0a-950139b78481"
+    },
+    "GamePlaza-title_baccarat": {
+      "__uuid__": "7952e241-bfdf-40a0-90bb-99183b8aeb2d"
+    },
+    "GamePlaza-title_dzshowhand": {
+      "__uuid__": "33424171-9549-46b8-8788-33ef59923c79"
+    },
+    "GamePlaza-title_fish": {
+      "__uuid__": "04033426-c0c2-4708-bf08-55021950c1e2"
+    },
+    "GamePlaza-title_fly": {
+      "__uuid__": "4b654713-5f01-4552-ae19-4ffd73b0be8b"
+    },
+    "GamePlaza-title_land": {
+      "__uuid__": "a868fd6d-3537-4ff6-9895-7cdb75bdf78d"
+    },
+    "GamePlaza-title_ox": {
+      "__uuid__": "26eeac7c-e7f0-4eec-9547-b269811d8cb4"
+    },
+    "GamePlaza-title_sparrower": {
+      "__uuid__": "f501c908-5213-4bbb-8435-cef9113369fe"
+    },
+    "GamePlaza-title_zajinhua": {
+      "__uuid__": "8769090d-f4d4-4c04-a5b0-9a62cd6f773a"
+    },
+    "GamePlaza-update_roll_bar": {
+      "__uuid__": "180a093b-1899-48ea-9335-2a837ada2731"
+    },
+    "GamePlaza-update_roll_progress": {
+      "__uuid__": "047a3f59-9b0f-497f-9ff8-ea62a1e4edea"
+    },
+    "GamePlaza-ys_service_d": {
+      "__uuid__": "0dd67b20-74c7-4e61-9c02-d72d5876cec1"
+    },
+    "GamePlaza-ys_service_n": {
+      "__uuid__": "f5998128-f84a-48e8-be28-c5c4800ff595"
+    },
+    "GamePlaza-ys_service_s": {
+      "__uuid__": "3c9e2a00-8283-46d5-91b0-5dcb963d3b34"
+    }
+  }
+}

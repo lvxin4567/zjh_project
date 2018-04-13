@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameCard_BG_GRAY",
+    "texture": "c4a19e35-ab21-4b92-bec4-11b0355059e5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      209
+    ]
+  }
+}

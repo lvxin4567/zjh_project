@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-pic_message_spk",
+    "texture": "e0643cd0-ce00-4548-92d9-99d5f09653af",
+    "atlas": "64de1260-c27d-454b-aafd-5073b98ceff2",
+    "rect": [
+      1393,
+      1194,
+      43,
+      45
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      43,
+      45
+    ]
+  }
+}

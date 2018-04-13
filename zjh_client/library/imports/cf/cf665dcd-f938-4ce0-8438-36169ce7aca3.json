@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "vs_qiu_04",
+    "texture": "410f4b28-83be-4d81-a247-c1b2e2167295",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      96,
+      163
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      97,
+      164
+    ]
+  }
+}

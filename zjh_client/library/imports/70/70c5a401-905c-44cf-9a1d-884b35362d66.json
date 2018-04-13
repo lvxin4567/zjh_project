@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "look_card",
+    "texture": "603f0996-4ecd-4092-8fae-f4a5218c59fc",
+    "atlas": "",
+    "rect": [
+      0,
+      6,
+      114,
+      97
+    ],
+    "offset": [
+      -2,
+      2.5
+    ],
+    "originalSize": [
+      118,
+      114
+    ]
+  }
+}

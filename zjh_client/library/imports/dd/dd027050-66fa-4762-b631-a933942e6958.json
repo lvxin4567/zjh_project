@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-dlg_comingsoon_text",
+    "texture": "e0643cd0-ce00-4548-92d9-99d5f09653af",
+    "atlas": "64de1260-c27d-454b-aafd-5073b98ceff2",
+    "rect": [
+      1908,
+      482,
+      146,
+      104
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      200,
+      200
+    ],
+    "rotated": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tip_pic_follow",
+    "texture": "312fa911-c491-4fd3-b858-37561863dbfb",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      76,
+      40
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      82,
+      42
+    ]
+  }
+}

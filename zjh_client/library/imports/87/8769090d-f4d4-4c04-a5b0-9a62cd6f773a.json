@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-title_zajinhua",
+    "texture": "e0643cd0-ce00-4548-92d9-99d5f09653af",
+    "atlas": "64de1260-c27d-454b-aafd-5073b98ceff2",
+    "rect": [
+      1181,
+      1094,
+      256,
+      48
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      280,
+      62
+    ]
+  }
+}

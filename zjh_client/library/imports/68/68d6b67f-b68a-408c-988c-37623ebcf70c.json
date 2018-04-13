@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "text_system_opencard",
+    "texture": "a6ea50c4-bfc0-4eb1-aa87-cb28a44be1a2",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      332,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      334,
+      56
+    ]
+  }
+}

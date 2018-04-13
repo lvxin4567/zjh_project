@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-dlg_roll_progress",
+    "texture": "e0643cd0-ce00-4548-92d9-99d5f09653af",
+    "atlas": "64de1260-c27d-454b-aafd-5073b98ceff2",
+    "rect": [
+      1284,
+      270,
+      359,
+      24
+    ],
+    "offset": [
+      6,
+      1
+    ],
+    "originalSize": [
+      377,
+      40
+    ]
+  }
+}

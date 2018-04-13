@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn_auto_follow_s",
+    "texture": "9834ffc0-2969-49ca-9661-32e1120dbba3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      244,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      244,
+      76
+    ]
+  }
+}

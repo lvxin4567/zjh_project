@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameCard_BG_FAILED_2",
+    "texture": "55fc4c8e-87aa-49b2-aa69-c9491a494a69",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      209
+    ]
+  }
+}

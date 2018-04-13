@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tip_pic_all",
+    "texture": "083ba932-5da1-4416-9239-1a96c3302d66",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      76,
+      40
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      82,
+      42
+    ]
+  }
+}

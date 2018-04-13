@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-btn_navigation_3_n",
+    "texture": "e0643cd0-ce00-4548-92d9-99d5f09653af",
+    "atlas": "64de1260-c27d-454b-aafd-5073b98ceff2",
+    "rect": [
+      1659,
+      737,
+      124,
+      63
+    ],
+    "offset": [
+      -1,
+      1
+    ],
+    "originalSize": [
+      134,
+      89
+    ],
+    "rotated": 1
+  }
+}
