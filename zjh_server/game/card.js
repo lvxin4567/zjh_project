@@ -8,5 +8,4 @@ const Card = function (value, shape) {
   that.shape = shape;
   return that;
 };
-module.exports = Card
-;
+module.exports = Card;

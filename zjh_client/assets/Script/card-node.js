@@ -1,4 +1,5 @@
-import defines from './defines'
+import defines from 'defines'
+import gamedata from './data/gamedata'
 cc.Class({
     extends: cc.Component,
 
@@ -15,6 +16,7 @@ cc.Class({
 
     showCard: function (data) {
         console.log("show card data = " + JSON.stringify(data));
+        cc.log("gamedata = " + gamedata.baseurl.ur);
         var value = data.value;
         var shape = data.shape;
         var nameStr = "card_" + defines.cardShapeMap[shape] + defines.cardValueMap[value];

@@ -928,10 +928,6 @@
     },
     "duration": 0.1,
     "zoomScale": 1.2,
-    "pressedSprite": {
-      "__uuid__": "b9941989-7866-445b-8a85-04fa10eb5a85"
-    },
-    "hoverSprite": null,
     "clickEvents": [
       {
         "__id__": 29
@@ -956,6 +952,14 @@
     "_N$normalSprite": {
       "__uuid__": "c086d5d1-ce4b-46e9-8f4f-79b86970c71e"
     },
+    "_N$pressedSprite": {
+      "__uuid__": "b9941989-7866-445b-8a85-04fa10eb5a85"
+    },
+    "pressedSprite": {
+      "__uuid__": "b9941989-7866-445b-8a85-04fa10eb5a85"
+    },
+    "_N$hoverSprite": null,
+    "hoverSprite": null,
     "_N$disabledSprite": null,
     "_N$target": {
       "__id__": 26

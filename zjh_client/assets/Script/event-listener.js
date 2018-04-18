@@ -8,7 +8,7 @@ const EventListener = function (obj) {
             Register[name] = [];
         }
         Register[name].push(method);
-    };
+};
     obj.fire = function (name) {
         console.log("fire " + name);
         if (Register.hasOwnProperty(name)){

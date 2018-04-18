@@ -14,6 +14,7 @@ cc.Class({
         }
     },
 
+
     // use this for initialization
     onLoad: function () {
         global.socket = io("localhost:3000");

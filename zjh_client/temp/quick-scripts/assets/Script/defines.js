@@ -17,6 +17,7 @@ Defines.cardShapeMap = {
   Club: 1, //梅花
   Diamond: 0 //方片
 };
+
 Defines.cardValueMap = {
   'a': 1,
   '2': 2,

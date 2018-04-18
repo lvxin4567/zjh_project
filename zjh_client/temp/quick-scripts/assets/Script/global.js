@@ -19,7 +19,7 @@ var global = {}; /**
                   */
 
 global.playerData = (0, _playerData2.default)();
-module.exports = global;
+//module.exports = global;
 exports.default = global;
 module.exports = exports['default'];
 
