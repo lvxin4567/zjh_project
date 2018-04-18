@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "logo@2x",
+    "texture": "083f0f9e-46d3-4519-afca-5a2eacedc20f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      589,
+      252
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      589,
+      252
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+2018-04-18T02:02:16.219Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-18T02:02:16.222Z - normal: checking language setting...
+2018-04-18T02:02:16.222Z - normal: Language: zh
+2018-04-18T02:02:18.163Z - success: protocol editor-framework registered
+2018-04-18T02:02:18.163Z - success: protocol app registered
+2018-04-18T02:02:18.163Z - success: protocol theme registered
+2018-04-18T02:02:18.163Z - success: protocol packages registered
+2018-04-18T02:02:18.163Z - success: protocol unpack registerred
+2018-04-18T02:02:18.163Z - success: protocol disable-commonjs registerred
+2018-04-18T02:02:18.367Z - normal: connected!
+2018-04-18T02:02:18.369Z - normal: Check project D:\creatorProject\gameFrame
+2018-04-18T02:02:18.370Z - normal: Initializing Cocos2d
+2018-04-18T02:02:18.557Z - normal: Initializing Asset Database
+2018-04-18T02:02:18.585Z - success: protocol uuid registerred
+2018-04-18T02:02:18.586Z - success: protocol db registerred
+2018-04-18T02:02:18.586Z - success: protocol thumbnail registerred
+2018-04-18T02:02:18.586Z - normal: Loading editor/builtin packages
+2018-04-18T02:02:18.611Z - success: anysdk loaded
+2018-04-18T02:02:18.741Z - success: assets loaded
+2018-04-18T02:02:18.743Z - success: builder loaded
+2018-04-18T02:02:18.745Z - success: cocos-analytics loaded
+2018-04-18T02:02:18.747Z - success: console loaded
+2018-04-18T02:02:18.750Z - success: hierarchy loaded
+2018-04-18T02:02:18.752Z - success: inspector loaded
+2018-04-18T02:02:18.761Z - success: keystore loaded
+2018-04-18T02:02:18.763Z - success: node-library loaded
+2018-04-18T02:02:18.765Z - success: package-asset loaded
+2018-04-18T02:02:18.766Z - success: preferences loaded
+2018-04-18T02:02:18.767Z - success: project-exporter loaded
+2018-04-18T02:02:18.784Z - success: project-importer loaded
+2018-04-18T02:02:18.786Z - success: project-settings loaded
+2018-04-18T02:02:18.787Z - success: ui-kit loaded
+2018-04-18T02:02:18.793Z - success: ui-grid loaded
+2018-04-18T02:02:18.796Z - success: scene loaded
+2018-04-18T02:02:18.797Z - success: sprite-editor loaded
+2018-04-18T02:02:18.799Z - success: store loaded
+2018-04-18T02:02:18.802Z - success: timeline loaded
+2018-04-18T02:02:18.802Z - normal: Loading builtin packages
+2018-04-18T02:02:18.811Z - success: asset-db-debugger loaded
+2018-04-18T02:02:18.812Z - success: code-editor loaded
+2018-04-18T02:02:18.820Z - success: color-picker loaded
+2018-04-18T02:02:18.821Z - success: package-manager loaded
+2018-04-18T02:02:18.824Z - success: sdkbox loaded
+2018-04-18T02:02:18.827Z - success: tester loaded
+2018-04-18T02:02:18.828Z - success: ui-kit-preview-extra loaded
+2018-04-18T02:02:18.829Z - success: ui-kit-preview loaded
+2018-04-18T02:02:18.830Z - success: ui-tree loaded
+2018-04-18T02:02:19.985Z - normal: Initializing project D:\creatorProject\gameFrame
+2018-04-18T02:02:20.000Z - normal: Loading packages
+2018-04-18T02:02:20.003Z - normal: Watching packages
+2018-04-18T02:02:20.019Z - normal: Run Application
+2018-04-18T02:02:21.605Z - success: preview server running at http://localhost:7456
+2018-04-18T02:02:25.920Z - normal: 1.8.2
+2018-04-18T02:27:21.610Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/tool.js.meta
+2018-04-18T05:42:23.206Z - failed: load script [./myWebsocket] failed : Error: Cannot find module './myWebsocket'
+    at Module._resolveFilename (module.js:470:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (D:\CocosCreator\resources\electron.asar\common\reset-search-paths.js:35:12)
+    at Function.Module._resolveFilename (D:\CocosCreator\resources\app.asar\editor\page\project-scripts.js:1:1361)
+    at Function.Module._load (module.js:418:25)
+    at Module.require (module.js:498:17)
+    at require (internal/module.js:20:19)
+    at Object.cc.require (D:\CocosCreator\resources\app.asar\editor\page\project-scripts.js:1:967)
+    at D:\creatorProject\gameFrame\temp\quick-scripts\assets\Script\game_controler.js:1:356
+    at __define (D:\creatorProject\gameFrame\temp\quick-scripts\assets\Script\game_controler.js:11:20)
+    at D:\creatorProject\gameFrame\temp\quick-scripts\assets\Script\game_controler.js:60:13
+2018-04-18T08:41:28.385Z - failed: [db-task][import] Can not import file D:\creatorProject\gameFrame\assets\image\hall\yyjb_bg_hall@2x.png, already in the database
+2018-04-18T08:43:20.109Z - failed: [db-task][import] Can not import file D:\creatorProject\gameFrame\assets\image\hall\qh_btn_create@2x.png, already in the database
+2018-04-18T08:43:20.110Z - failed: [db-task][import] Can not import file D:\creatorProject\gameFrame\assets\image\hall\qh_btn_join@2x.png, already in the database
+2018-04-18T08:43:20.110Z - failed: [db-task][import] Can not import file D:\creatorProject\gameFrame\assets\image\hall\qh_img_avctor@2x.png, already in the database
+2018-04-18T09:30:41.284Z - warn: The Asset used by component "cc.Sprite" is missing. Detailed information:
+Node path: "createRoom"
+Missing uuid: "2f6c38cc-b3d0-42a3-bd42-3f1a016b3c87"
+
+2018-04-18T09:51:22.600Z - failed: [db-task][sync-changes] Failed to import asset D:\creatorProject\gameFrame\assets\Script\uiManager.js, message: Compile error: SyntaxError: D:/creatorProject/gameFrame/assets/Script/uiManager.js: Unexpected token (47:8)
+  45 |             }
+  46 |             if(this.uimgr[key])
+> 47 |         }
+     |         ^
+  48 |     },
+  49 | 
+  50 | })
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseExprAtom (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3750:12)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3494:19)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3344:19)
+    at Parser.pp$3.parseExpression (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3306:19)
+    at Parser.pp$1.parseStatement (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1906:19)
+2018-04-18T09:51:43.649Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/hall.js.meta
+2018-04-18T09:51:43.665Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/loginScript.js.meta
+2018-04-18T09:52:00.667Z - warn: Script attached to "hallScene" in prefab "hallScene.prefab" is missing or invalid. Detailed information:
+Node path: "hallScene"
+Asset url: "db://assets/resources/prefabs/hallScene.prefab"
+Script UUID: "b447a4de-20d7-4459-aef5-328ed226c5e9"
+Class ID: "b447aTeINdEWa71Mo7SJsXp"
+
+2018-04-18T09:52:44.168Z - warn: Script attached to "loginscene" in prefab "loginscene.prefab" is missing or invalid. Detailed information:
+Node path: "loginscene"
+Asset url: "db://assets/resources/prefabs/loginscene.prefab"
+Script UUID: "4d746b5c-c8cd-4638-9199-6e39ff784390"
+Class ID: "4d746tcyM1GOJGZbjn/eEOQ"
+

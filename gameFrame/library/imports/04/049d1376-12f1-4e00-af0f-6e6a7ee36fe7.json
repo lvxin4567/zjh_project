@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qh_img_avctor@2x",
+    "texture": "5d187429-127a-49c3-9f9a-7dffe109968d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      262,
+      543
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      262,
+      543
+    ]
+  }
+}

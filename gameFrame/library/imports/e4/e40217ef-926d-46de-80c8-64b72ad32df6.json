@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "qh_btn_join@2x",
+    "texture": "848f798b-76e9-40ef-8423-8f0dace57ab7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      334,
+      120
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      334,
+      120
+    ]
+  }
+}
